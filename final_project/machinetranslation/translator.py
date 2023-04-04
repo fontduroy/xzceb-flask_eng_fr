@@ -64,7 +64,3 @@ def french_to_english(french_text):
     print(english_text)
     return english_text
 
-english_to_french("")
-french_to_english("")
-english_to_french("Hello")
-french_to_english("Bonjour")
